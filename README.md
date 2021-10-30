@@ -5,6 +5,7 @@
 ## Level 1: Basic Visualization
 # Your first task is to visualize an earthquake data set.
  Get your data set
+ Chosen data set: "All Earthquakes from the Past 7 Days"
  
 # Import & Visualize the Data
 
